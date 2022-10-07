@@ -1,6 +1,6 @@
 ## Welcome to The Kumarajiva Project!
 
-Check out our [🛤️development projects roadmap](https://github.com/orgs/The-Kumarajiva-Project/projects/8) and don't hesitate to leave a message in the [🌞discussions](https://github.com/orgs/The-Kumarajiva-Project/discussions).
+Check out our [🛣️development projects roadmap](https://github.com/orgs/The-Kumarajiva-Project/projects/8) and don't hesitate to leave a message in the [🌞discussions](https://github.com/orgs/The-Kumarajiva-Project/discussions).
 
 <!--
 
